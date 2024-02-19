@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "name": "iphone123",
+      "description": "đẹp hiệu năng cao",
+      "image": "https://picsum.photos/200/100",
+      "price": "123456",
+      "id": "1"
+    },
+    {
+      "name": "Samsung",
+      "price": 23231,
+      "description": "chụp ảnh tốt",
+      "image": "https://picsum.photos/200/100",
+      "id": "2"
+    },
+    {
+      "name": "redmi123",
+      "description": "ngon rẻ",
+      "image": "https://picsum.photos/200/100",
+      "price": "1234522",
+      "id": "0c9c"
+    },
+    {
+      "id": "8128",
+      "name": "redmi",
+      "description": "ngon rẻ",
+      "image": "https://picsum.photos/200/100",
+      "price": "1234"
+    },
+    {
+      "id": "616d",
+      "name": "Samsung234",
+      "description": "ngon rẻ",
+      "image": "https://picsum.photos/200/100",
+      "price": "23231"
+    },
+    {
+      "id": "b892",
+      "name": "iphone123",
+      "description": "đẹp hiệu năng cao",
+      "image": "https://picsum.photos/200/100",
+      "price": "123456"
+    },
+    {
+      "id": "fdea",
+      "name": "Samsung234",
+      "description": "đẹp hiệu năng cao",
+      "image": "https://picsum.photos/200/100",
+      "price": "23231"
+    }
+  ]
+}
